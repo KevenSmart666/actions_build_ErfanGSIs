@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/9.8.28/miui_MI8SE_9.8.28_2c7a440ccb_9.0.zip
+  ROM_URL: https://hugeota.d.miui.com/9.12.31/miui_MI8SE_9.12.31_a910791d52_10.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
